@@ -8,8 +8,6 @@
 #include <netinet/ip.h>
 #include <netinet/tcp.h>
 
-#define HTTP_REQUEST_FUNCTION 	6
-
 char *get_str = "GET";
 
 struct rst_packet {
